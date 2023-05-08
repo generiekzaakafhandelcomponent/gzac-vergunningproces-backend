@@ -36,6 +36,7 @@ dependencies {
 
     implementation("com.ritense.valtimo:audit:$valtimoVersion")
     implementation("com.ritense.valtimo:besluit:$valtimoVersion")
+    implementation("com.ritense.valtimo:case:$valtimoVersion")
     implementation("com.ritense.valtimo:connector:$valtimoVersion")
     implementation("com.ritense.valtimo:contactmoment:$valtimoVersion")
     implementation("com.ritense.valtimo:contract:$valtimoVersion")
